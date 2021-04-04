@@ -1,0 +1,8 @@
+# datasets
+datasets/
+
+# experiments folder
+expr/
+
+# pytorch
+*.pth
